@@ -1,0 +1,44 @@
+1° Exemplo:
+Imaginar que vamos conectar com a api do google.
+
+Google:
+    Obter Agedamentos
+    Obter os Contatos
+    etc ...
+
+Google:
+    Email
+    Senha
+    Chava secreta.
+    Outras informações ...
+
+Aprendemos o Facoty Method
+================================================================
+
+2° Exemplo
+
+Vamos trabalhar com contratos e precisamos:
+
+Avançar nos estados Ok
+Salvar o estado do contrato
+Voltar nos estados.
+
+Aprendemos o padrao Memento
+================================================================
+
+3° Exemplo
+(20 + 10) + (20 - 10) // Expressão
+
+Esse padrão ele serve para avaliar uma arvore de expressoes matematicas e calcular.
+Aprendemos o padrão Interpreter
+===============================================================
+4° Exemplo 
+
+Imagine que agora precisamos imprimir a expressão na tela, mostrar ao usuario como foi construido a expressão para chegar no resultado.
+
+ImprimirSoma
+ImprimirSubtracao
+ImprimirNumero
+
+Ele é muito utilizado para visitar os nós de uma arvore de expressão e tomar alguma ação de processamento.
+Aprendemos o padrão Visitor
