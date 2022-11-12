@@ -31,6 +31,7 @@ Aprendemos o padrao Memento
 
 Esse padrão ele serve para avaliar uma arvore de expressoes matematicas e calcular.
 Aprendemos o padrão Interpreter
+
 ===============================================================
 4° Exemplo 
 
@@ -42,3 +43,40 @@ ImprimirNumero
 
 Ele é muito utilizado para visitar os nós de uma arvore de expressão e tomar alguma ação de processamento.
 Aprendemos o padrão Visitor
+
+===========================================
+5° Exemplo:
+
+Problema que tinhamos, Ecmmerce com muitos pedidos e precisavamos enfileirar os comandos que são feitos pelo pedido.
+
+Sempre usamos esse padrão quando precisamos ter uma classe que posteriormente precisa executar comandos/acoes.
+
+Aprendemos o padrão Command
+=============================================
+6° Exemplo:
+
+Fomos contratados para integrar informações com a Gol.
+
+Cliente >> modelo
+ClienteGol >> terceiros
+
+Apredemos o padrão Adapter.
+================================================
+7° Exemplo:
+
+Um sistema que cuida de clientes, cobrancas, faturas, contatos.
+
+Usamos o padrão façade quando nos queremos esconder a complexidade de um sistema legado.
+Assim podemos ter em um unico lugar que conhece a regra do sistema legado e podemos aproveitar essa regra
+em um novo sistema orientado a objetos.
+
+Só use variáveis globais se você realmente sabe a motivação de usar a mesma.
+
+Aprendemos o padrão Façade
+Aprendemos o padrão Singleton
+
+
+
+
+
+
